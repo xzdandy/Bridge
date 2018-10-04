@@ -1,0 +1,30 @@
+#+TITLE: Polish Club 1.0
+
+#+AUTHOR: Zhuangdi Xu, Andy
+
+#+DESCRIPTION: Based on Krzysztof Jassem's polish club international 2010 and 2005
+
+* Introduction
+
+Let's start with the basic opening structure of the system:
+
+1C = Polish club, one of three
+     a) 12--14 NT
+     b) 15+ HCP, 5+!c
+     c) 18+ HCP, any distribution
+1D = 12--17 HCP, 5+!d / Unless one of two
+     a) 12--17 HCP, (4441) with 4!d
+     b) 12--14 HCP, (xx)45
+1M = 12--17 HCP, 5+M
+1N = 15--17 NT
+2C = 11--15 HCP, 6+!c / 5+!c, 4M
+2D = Multi: 6--10 HCP, 6+!h/6+!s
+2M = Muiderberg: 6--10 HCP, 5M, 5m
+2N = 6--10HCP, (xx)55
+3X = PRE
+3N = Gambling, one stopper outside
+
+#INCLUDE common/1N.bml
+
+#INCLUDE common/abbreviations.bml
+
