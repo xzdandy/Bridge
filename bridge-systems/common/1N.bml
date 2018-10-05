@@ -12,7 +12,7 @@ Shows 15-17 HCP Balanced, 5M is possible.
     2N = MAX, good !c
     3C = Anything else
   2N = 8-9 HCP, INV
-  3C = 6+!d TRF, T/P \ FG
+  3C = 6+!d TRF, T/P or FG
   3D = 7-9 HCP, 6+!d, INV
   3H = 31(54) FG
   3S = 13(54) FG
@@ -81,7 +81,7 @@ Shows 15-17 HCP Balanced, 5M is possible.
     4H = 6+!h S/T
     4N = RKCB
   2S = 4+!h, 2!s, MAX 
-  2N = 4333 \ 3343 \ 3334, MAX
+  2N = 4333 / 3343 / 3334, MAX
   3m = 4+!h, 2m, MAX
   3H = 3433, MAX 
 
@@ -94,68 +94,12 @@ Shows 15-17 HCP Balanced, 5M is possible.
     3N = 5!s, T/P
     4X = 9-11 HCP, 6+!s, SPL
     4N = RKCB
-  2N = 3433 \ 3343 \ 3334, MAX
+  2N = 3433 / 3343 / 3334, MAX
   3X = 4+!s, 2X, MAX
   3S = 4333, MAX 
 
 ** They bid over our 1NT opening
 
-After a double we play system on. The only new bid is redouble which depends
-on the meaning of double. If double is for penalties (or just showing values),
-the redouble is a Puppet to 2!c. In any other case the redouble shows values
-as well and is forcing till 2!s.
-
-1N-(2C)
-  D = values and a double later on is for take out
-  2D = NF
-  2H = NF (?)
-  2S = minors (?)
-  2N = transfer lebensohl
-  3X = transfer lebensohl
-
-*** They bid over stayman
-
-1N-(P)-2C-(D)
-  P = no !c stopper
-    R = Stayman again, INV+
-      2D = 4+!h
-      2H = 4+!s
-      2S = no 4+M
-      2N = MM, MIN
-      3C = MM, MAX
-  R = Proposal to play (4)5+!c
-  2DHS = !c stopper, system on
-  2N = !c stopper, system on
-  3C = !c stopper, system on
-
-1N-(P)-2C-(2D)
-  P = no M
-  D = For penalties
-  2M = nat, 4+M
-  2N = MM, MIN
-  3C = MM, MAX
-
-1N-(P)-2C-(2M)
-  D = take out (4+oM)
-  2S = 5+!s
-
-1N-(P)-2C-(3m)
-  D = pen
-  3M = 5+M
-
-*** They bid over our transfer
-
-1N-(P)-2red-(D)
-  P = no 3 cards fit 
-    R = retransfer
-    1step = to play
-    3m = 5-5, NF
-  R = 3+ cards fit, wants partner to play (usually no stopper or something like Ax(x))
-  2M = 3+ cards fit, wants to play (usually a stopper)
-
-When they bid over our transfer a double is just for penalties.  Support shows
-a good hand with fit, after 2D at least 4 cards (partner may have 4!h5!s in
-the majors). If they bid our cuebid dbl shows fit and willingness to compete.
-
+After a double we play system on. The only new bid is redouble which shows value, and willing to penalize. After 2!c we play system on, except double is stayman. For other 2-level overcall, we play Rubensohl. After 2NT overcall, we play the same system after a 2NT opening. For 3-level or higher, following bid is natural. 
 
 
