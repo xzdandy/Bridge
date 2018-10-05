@@ -24,6 +24,7 @@ Let's start with the basic opening structure of the system:
 3X = PRE
 3N = Gambling, one stopper outside
 
+#INCLUDE common/1M.bml
 #INCLUDE common/1N.bml
 
 #INCLUDE common/abbreviations.bml
