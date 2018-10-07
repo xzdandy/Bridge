@@ -1,0 +1,29 @@
+* Jacoby 2NT
+
+Jacoby 2NT is used to set up a game forcing after a major suit fit and look for slam.
+This structure of Jacoby 2NT is modified from Meckwell.
+MIN: 12-14 HCP, MAX: 15-17 HCP, upgrade is possible. With 18+ HCP, we open 1C.
+
+** Answers
+
+1M-2N
+  3C = MIN, Except for (6322) or (7222) garbage 
+  3D = MAX, Unknown shortness
+    3H = ASK
+      3S = Unknown void
+        3N = ASK
+          4CD = Void in !c or !d
+          4H = Void in OM
+      3N = Singleton in OM
+      4CD = Singleton in !c or !d
+  3H = MAX, (5422)
+    3S = ASK
+      3N = 4OM
+      4CD = 4!c / 4!d
+  3S = MAX, (64xx)
+    3N = ASK
+      4CD = 4!c / 4!d
+      4H = 4OM
+  3N = MAX, BAL
+  4X = MAX, 5+M, 5+X, Two of top three honors in X
+  4M = (6322) or (7222) garbage
