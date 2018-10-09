@@ -1,82 +1,42 @@
 * The 2!c opening
 
+The 2!c opening shows 12-14 HCP, 6+!c or 5!c and 4-card major suit.
+
 ** Answers
 
-2C = One of:
-     1) weak-two in !d
-     2) 25+ NT
-     3) FG in !c, !h or !s
-  2D = (R)
-    P = weak-two in !d
-    2H = FG in !h
-      2S = (R), any hand not suitable for other bids hence 0+ HCP
-        2N = 4!s
-        3m = 4+m
-        3H = 6!h
-      2N = 5+!s, 6+ HCP
-      3m = 5+m, 6+ HCP
-      3H = fit, at least Hxx or xxxx, 6+ HCP
-        3S = no SPL
-        3N = SPL !s
-        4m = SPL m
-      3S = fit, at least Hxx or xxxx, 6+ HCP, SPL !s
-      3N = fit, at least Hxx or xxxx, 6+ HCP, SPL !d
-      4C = fit, at least Hxx or xxxx, 6+ HCP, SPL !c
-    2S = FG in !s
-      2N = (R), any hand not suitable for other bids hence 0+ HCP
-      3m = 5+m, 6+ HCP
-      3H = 5+!h, 6+ HCP
-      3S = fit, at least Hxx or xxxx, 6+ HCP
-        3N = no SPL
-        4m = SPL m
-        4H = SPL !h
-      3N = fit, at least Hxx or xxxx, 6+ HCP, SPL !h
-      4m = fit, at least Hxx or xxxx, 6+ HCP, SPL m
-    2N = 25+HCP, BAL
-    3C = FG in !c, one of:
-         1) 4M
-         2) 1-suiter, not a solid suit plus stoppers and 9 tricks
-      3D = (R)
-        3M = variant 1
-          4C = S/A for !c
-          4D = S/A for M
-        3N = variant 2
-        4m = variant 2
-      3M = 5+M
-    3D = FG, 5+!c-4+!d
-      3M = stopper  
-      4C = S/A for !c
-      4D = S/A for !d
-    3M = FG, 5+!c-5M, clubs better or longer
-      4C = S/A for !c
-      4D = S/A for M
-    3N = FG in !c, 1-suiter, a solid suit plus stoppers and 9 tricks
-  2M = 5+M, F1R
-    2N = 25+ HCP, BAL
-    3D = weak-two in !d, no fit, NF
-      3M = FG
-    3M = weak-two in !d, fit, MIN
-    4M = weak-two in !d, fit, MAX
-    2X = FG, system-on if possible
-    3X = FG, system-on if possible
-    3N = FG, system-on if possible
-  2N = (R), STR
-    3C = weak-two, not MAX or no good suit
-      3D = NF
-    3D = weak-two, MAX, good suit, SPL !c
-    3H = weak-two, MAX, good suit, SPL !h
-    3S = weak-two, MAX, good suit, SPL !s
-    3N = weak-two, MAX, good suit, no SPL
-    4X = same meaning and development as after 2!c-2!d-3X
-  3C = 6+!c, INV
-  3D = PRE
-  3M = 6M, INV
-  
-** Intervention
+2C
+  2D = ASK for 4-card major
+    2M = 4M
+      2S\2H = 5!s, F
+      2N = Forcing 2NT, ASK for shape
+      3C = 9-11 HCP with !c fit, INV
+      3D = NAT, F
+      3M = 4+M, INV
+      3H\2S = NAT, F
+      3N = T/P
+      4C = S/T in !c
+    2N = 6!c, 4-M, Want to declare NT, No shortness
+      3C = T/P
+      3X = NAT, F
+      3N = T/P
+    3C = 6!c, 4-M, All others
+      3D = ASK for shortness
+        3M = Shortness in M
+        3N = BAL / Shortness in !d
+      3M = NAT, F
+      3N = T/P
+    3X = 6!c, 5X
+  2M = 6-11 HCP, 5+M, NF
+  2N = TRF to 3!c
+    3C = Forced
+      P = 5-8 HCP, T/P
+      3D = 5+!h, 5+!s, FG
+      3M = 5+M, 5+!d, FG 
+      3N = INV to 6N
+  3C = 9-11 HCP with !c fit, INV
+  3X = NAT, INV
+  3N = T/P
+  4C = PRE
+  4X = T/P
+  4N = BW
 
-We just keep it simple: a pass promises clubs, redouble is a Puppet to 2!d
-with an own suit and a weak hand. The rest is system-on.
-
-2C-(D)
-  P = 5+!c, NF
-  R = Puppet to 2!d

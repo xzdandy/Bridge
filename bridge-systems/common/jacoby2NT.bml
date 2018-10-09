@@ -8,29 +8,29 @@ MIN: 12-14 HCP, MAX: 15-17 HCP, upgrade is possible. With 18+ HCP, we open 1C.
 
 1M-2N
   3C = MIN, Except for (6322) or (7222) garbage 
-    3D = ASK
+    3D = ASK for shortness
       3H = 5M, No shortness
       3S = Unknown void
-        3N = ASK
+        3N = ASK for void
           4CD = Void in !c or !d
           4H = Void in OM
       3N = Singleton in OM
       4CD = Signleton in !c or !d
       4M = (6322) or (7222), Min but not garbage
   3D = MAX, Unknown shortness
-    3H = ASK
+    3H = ASK for shortness
       3S = Unknown void
-        3N = ASK
+        3N = ASK for void
           4CD = Void in !c or !d
           4H = Void in OM
       3N = Singleton in OM
       4CD = Singleton in !c or !d
   3H = MAX, (5422)
-    3S = ASK
+    3S = ASK for 4-card side suit
       3N = 4OM
       4CD = 4!c / 4!d
   3S = MAX, (64xx)
-    3N = ASK
+    3N = ASK for 4-card side suit
       4CD = 4!c / 4!d
       4H = 4OM
   3N = MAX, BAL
