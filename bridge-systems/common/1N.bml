@@ -83,7 +83,7 @@ Shows 15-17 HCP Balanced, 5M is possible.
       3H = Doubleton in !c
       3N = 3433
   3m = 3!h, 5m, MAX
-  3H = 5H, MAX 
+  3H = 5!h, MAX 
 
 1N-2H
   2S = Forced
@@ -94,9 +94,12 @@ Shows 15-17 HCP Balanced, 5M is possible.
     3N = 5!s, T/P
     4X = 9-11 HCP, 6+!s, SPL
     4N = 5!s, INV to 6N
-  2N = 3433 / 3343 / 3334, MAX
-  3X = 4+!s, 2X, MAX
-  3S = 4333, MAX 
+  2N = 4!s, MAX
+    3C = ASK for doubleton
+      3DH = Doubleton in !d / !h
+      3S = Doubleton in !c
+  3X = 3!s, 5X, MAX
+  3S = 5!s, MAX 
 
 ** They bid over our 1NT opening
 
