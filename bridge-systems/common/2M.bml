@@ -1,0 +1,76 @@
+* The 2M opening
+
+2M opening is different under vulnerable and non-vulnerable, but in either case showing 6-10 HCP.
+When vulnerable, 2!h/2!s shows 5 cards in the bid suit and 5 cards in one minor suit.
+When non-vulnerable, 2!h/2!s shows 5 cards in the bid suit and at least 4 cards in one minor suit with at least one honor.
+
+** Answers under vulnerable
+
+2M
+  2S\2H = 5+!s, NF
+  2N = Ask for the second suit, INV+
+    3m = 5!m
+      3OM = CUE, S/T in M
+      3M = T/P
+      3N = T/P
+      4m = S/T in m
+      4om = CUE, S/T in !s
+      4OM = RKCB in m
+      4M = T/P
+      4N = RKCB in M
+  3C = P/C
+  3D = INV to 4M
+  3OM = 6+OM, INV
+  3M = PRE
+  3N = T/P
+  4C = P/C, PRE
+  4D = RKCB in M
+  4M = T/P
+  4N = BW
+
+** Answers under non-vulnerable
+
+The only change is the 2NT asking structure.
+
+2M - 2N
+  3C = 4!c
+    3D = ASK for 3-card fraction
+      3H = 2-OM
+      3S = 3OM
+    3M = T/P
+    3OM = CUE, S/T in M
+    3N = T/P
+    4C = S/T in !c
+    4D = CUE, S/T in M
+    4M = T/P
+    4OM = RKCB in !c
+    4N = RKCB in M and !c
+  3D = 4!d, 3OM
+    3M = T/P
+    3OM = S/T in OM
+    3N = T/P
+    4C = S/T in M
+    4D = S/T in !d
+    4M = T/P
+    4OM = T/P
+    4N = RKCB in M and !d
+  3H = 4!d, 2-OM
+    3S = T/P
+    3S\2H = CUE, S/T in !h
+    3N = T/P
+    4D = S/T in !d
+    4Y = CUE, S/T in M
+    4S\2H = RKCB in !d
+    4M = T/P
+    4N = RKCB in M and !d
+  3S = 5!c
+    3N = T/P
+    4C = S/T in !c
+    4Y = CUE, S/T in M
+    4M = T/P
+    4N = RKCB in M and !c
+  3N = 5!d
+    4D = S/T in !d
+    4Y = CUE, S/T in M
+    4M = T/P
+    4N = RKCB in M and !d
