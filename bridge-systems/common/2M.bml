@@ -12,7 +12,7 @@
       3M = T/P
       3N = T/P
       4m = S/T in m
-      4om = CUE, S/T in !s
+      4om = CUE, S/T in M
       4oM = RKCB in m
       4M = T/P
       4N = RKCB in M
@@ -30,7 +30,7 @@
 
 The only change is the 2NT asking structure.
 
-2M - 2N
+2M-2N
   3C = 4!c
     3D = ASK for 3-card fraction
       3H = 2-oM
