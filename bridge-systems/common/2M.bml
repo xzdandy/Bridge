@@ -1,74 +1,46 @@
 * The 2M opening
 
-2M opening is different under vulnerable and non-vulnerable, but in either case showing 6-10 HCP. When vulnerable, 2M shows 5 cards in the bid suit and 5 cards in one minor suit. :When non-vulnerable, 2M shows 5 cards in the bid suit and at least 4 cards in one minor suit with at least one honor.
+The 2H and 2S openings show a sub-opening strength (6-10), 5 of the bid suit and a side 5-crd suit: in the case of 2H it can be any side suit, while with 2S the second suit must be a minor.
 
-** Answers under vulnerable
-
-2M
-  2S\2H = 5+!s, NF
-  2N = Ask for the second suit, INV+
-    3m = 5!m
-      3oM = CUE, S/T in M
-      3M = T/P
+2H
+  2S = P/C to minor
+  2N = ASK for the side 5-card suit
+    3m = 5m
+      3X = CUE, S/T in !h
+      3H = INV
       3N = T/P
+      4X = CUE, S/T in !h
       4m = S/T in m
-      4om = CUE, S/T in M
-      4oM = RKCB in m
+      4H = T/P
+      4S = RKCB in m
+      4N = RKCB in !h
+    3H = 5!s
+      3S = S/T in !s
+      3N = T/P
+      4m = CUE, S/T in !h
       4M = T/P
-      4N = RKCB in M
-  3C = P/C
-  3D = INV to 4M
-  3oM = 6+oM, INV
-  3M = PRE
+      4N = RKCB in !h
+  3X = 6+X, F1
+  3H = PRE
   3N = T/P
-  4C = P/C, PRE
-  4D = RKCB in M
+  4m = P/C, PRE
   4M = T/P
   4N = BW
 
-** Answers under non-vulnerable
-
-The only change is the 2NT asking structure.
-
-2M-2N
-  3C = 4!c
-    3D = ASK for 3-card fraction
-      3H = 2-oM
-      3S = 3oM
-    3M = T/P
-    3oM = CUE, S/T in M
-    3N = T/P
-    4C = S/T in !c
-    4D = CUE, S/T in M
-    4M = T/P
-    4oM = RKCB in !c
-    4N = RKCB in M and !c
-  3D = 4!d, 3oM
-    3M = T/P
-    3oM = S/T in oM
-    3N = T/P
-    4C = S/T in M
-    4D = S/T in !d
-    4M = T/P
-    4oM = T/P
-    4N = RKCB in M and !d
-  3H = 4!d, 2-oM
-    3S = T/P
-    3S\2H = CUE, S/T in !h
-    3N = T/P
-    4D = S/T in !d
-    4X = CUE, S/T in M
-    4S\2H = RKCB in !d
-    4M = T/P
-    4N = RKCB in M and !d
-  3S = 5!c
-    3N = T/P
-    4C = S/T in !c
-    4X = CUE, S/T in M
-    4M = T/P
-    4N = RKCB in M and !c
-  3N = 5!d
-    4D = S/T in !d
-    4X = CUE, S/T in M
-    4M = T/P
-    4N = RKCB in M and !d
+2S
+  2N = ASK for the side 4-card suit
+    3m = 5m
+      3X = CUE, S/T in !s
+      3S = INV
+      3N = T/P
+      4X = CUE, S/T in !s
+      4m = S/T in m
+      4H = RKCB in m
+      4S = T/P
+      4N = RKCB in !s
+  3X = 6+X, F1
+  3S = PRE
+  3N = T/P
+  4m = P/C, PRE
+  4M = T/P
+  4N = BW
