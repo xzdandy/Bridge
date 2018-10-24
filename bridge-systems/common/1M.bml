@@ -1,39 +1,16 @@
 * The 1 major opening
 
 One of a major promises 5 cards and 12-17 HCP. With more than 18 HCP, we open 1!c.
-We play Bergen raise, Jacboy 2NT, Mini splinter / splinter and 2 over 1 is almost game forcing unless rebidding the minor suit at 3 level.
-
-** Answers
-
-1S-
-1N = 5-12 HCP, 3-!s, Semi-forcing
-2C = FG / 10-12 HCP, 6+!c, Rebid 3C in the next round
-2D = 5+!d, FG / 10-12 HCP, 6+!d, Rebid 3D in the next round
-2H = 5+!h, FG
-2S = 5-9 HCP, 3-4!s
-2N = 4+!s, FG
-3C = Mixed raise: 7-9 HCP, 4+!s
-3D = Limit raise: 10-12 HCP, 4+!s
-3H = 6!h, Good suit, NF
-3S = 4+!s, PRE
-3N = Mini splinter: 9-12 HCP, 4+!s, Unknown shortness
-  4C = ASK
-    4DH = 1-!d / 1-!h
-    4S = 1-!c
-4X = 13-16 HCP, 4+!s, SPL
-4S = 5+!s, PRE
-4N = BW
 
 1H-
 1S = 6+HCP, 4+!s 
 1N = 5-12 HCP, 3-!h, Semi-forcing
-2C = FG / 10-12 HCP, 6+!c, Rebid 3C in the next round
-2D = 5+!d, FG / 10-12 HCP, 6+!d, Rebid 3D in the next round
+2C = FG
+2D = 5+!d
 2H = 5-9 HCP, 3-4!h
-2S = 6!s, good suit, NF
-2N = 4+!h, FG
-3C = Mixed raise: 7-9 HCP, 4+!h
-3D = Limit raise: 10-12 HCP, 4+!h
+2S = 9-11 HCP, 6+!s, 2-!h, INV
+2N = Mixed / Limit raise: 7-12 HCP, 4+!h
+3X = 9-11 HCP, 6+X, 2-!h, INV
 3H = 4+!h, PRE
 3S = Mini splinter: 9-12 HCP, 4+!s, Unknown shortness
   3N = ASK
@@ -43,7 +20,20 @@ We play Bergen raise, Jacboy 2NT, Mini splinter / splinter and 2 over 1 is almos
 4H = 5+!h, PRE
 4N = BW
 
-*** 1M-1NT
-
-
+1S-
+1N = 5-12 HCP, 3-!s, Semi-forcing
+2C = FG
+2D = 5+!d, FG
+2H = 5+!h, FG
+2S = 5-9 HCP, 3-4!s
+2N = Mixed / Limit raise: 7-12 HCP, 4+!s
+3X = 9-11 HCP, 6+X, 2-!s, INV
+3S = 4+!s, PRE
+3N = Mini splinter: 9-12 HCP, 4+!s, Unknown shortness
+  4C = ASK
+    4DH = 1-!d / 1-!h
+    4S = 1-!c
+4X = 13-16 HCP, 4+!s, SPL
+4S = PRE or T/P
+4N = BW
 
