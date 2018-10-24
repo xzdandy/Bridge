@@ -26,7 +26,6 @@ Let's start with the basic opening structure of the system:
 
 #INCLUDE common/1D.bml
 #INCLUDE common/1M.bml
-#INCLUDE common/jacoby2NT.bml
 #INCLUDE common/1N.bml
 #INCLUDE common/2C.bml
 #INCLUDE common/2D.bml
