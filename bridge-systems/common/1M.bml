@@ -80,7 +80,11 @@ We use MIN to represent 12-14 HCP, and MAX to represent 15-17 HCP.
       3S = 4540
       3N = 4522
     3X = T/P
-  2N = ?
+  2N = 6!h, 4-card side suit, MAX
+    3C = ASK for 4-card side suit
+      3X = 4X
+      3H = 4!c
+    3X = T/P
   3m = 5m, 5!h, MAX
   3H = 6!h, MAX
   3S = 5!s, 6!h, MAX
@@ -113,9 +117,57 @@ We use MIN to represent 12-14 HCP, and MAX to represent 15-17 HCP.
     3X = 10-12 HCP, 5+X, INV
     3S = 10-12 HCP, 2-3!s, INV
     3N = T/P
-  2N = ?
+  2N = 6!s, 4-card side suit, MAX
+    3C = ASK for 4-card side suit
+      3X = 4X
+      3S = 4!c
+    3X = T/P
   3X = 5X, 5!s, MAX
   3S = 6!s, MAX
   3N = T/P
   4X = 6X, 6!s, MAX
   4S = T/P
+
+** Continuation after 1H-1S
+
+1H-1S-
+1N = BAL, MIN, 2-way checkback on
+2CD = 4+!c / 4+!d
+2H = 6!h, MIN
+  2S = 6!s, T/P
+  2N = ASK for shortness
+    3CD = Shortness in !c / !d
+  3C = NMF, INV
+  3D = NMF, FG
+  3S = 6!s, INV 
+2S = 4!s, MIN
+  2N = ASK for shape, FG
+    3CD = 3!c / 3!d
+    3H = 6!h
+    3S = 4522, MIN
+    3N = 4522, MAX
+  3m = Help suit game try
+  3H = 4!h, INV
+  3S = INV
+2N = 6!h, 2-!s, MAX
+  3C = INV / FG in !h
+    3D = Deny INV
+    3H = Accept INV
+  3D = 6+!s, INV / FG in !s
+    3H = Deny INV
+    3S = Accept INV
+    3N = T/P
+  3M = T/P
+3CD = 5!c / 5!d, MAX
+3H = 6!h, 3!s, MAX
+  3S = T/P
+  3N = T/P
+  4CD = S/T in !h / !s
+  4M = T/P
+3S = 4!s, MAX
+  3N = ASK for shortness
+    4CD = Shortness in !c / !d
+    4H = Good 6!h
+    4S = No shortness
+  4X = CUE, S/T
+
