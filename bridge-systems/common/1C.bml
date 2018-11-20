@@ -51,9 +51,9 @@ P = pass with all hands fewer than 5 points
 1N = 3-M, 12-14 HCP, XYZ continuation
 2C = 3-M, 5+!c, 15+ HCP, F1
 2D = ART, 3-M, FG, natural continuation, rebid M shows 5 
-2M = 4M, 12-14 HCP
+2M = 4M, 12-14 HCP, forcing 2NT and helper suit game try continuation
 2oM = 5+OM, FG
-2N = 4+M, FG
+2N = 4+M, FG, see forcing 2NT after major rasie for continuation
 3m = 6+m, FG
 3M = 4M, 5+!c, 15-17 HCP, INV
 
@@ -65,5 +65,18 @@ P = pass with all hands fewer than 5 points
 2oM = NAT, F, concern about !d
 2N = NF
 3C = NF
+
+** 1!c-1N
+
+1C-1N-
+2C = 5+!c, 15-17, INV, show stoppers next
+2X = 5+X, FG
+2N = ASK for shape
+  3CD = 5!c / 5!d
+  3M = 4!c-4!d-2M-3OM
+  3N = 4333 hand
+3X = set the trump, ask for CUE 
+3N = T/P
+
 
 
