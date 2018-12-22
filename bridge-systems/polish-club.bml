@@ -9,20 +9,33 @@
 Let's start with the basic opening structure of the system:
 
 1C = Polish club, one of three
-     a) 12--14 NT
-     b) 15+ HCP, 5+!c
-     c) 18+ HCP, any distribution
-1D = 12--17 HCP, 5+!d / Unless one of two
-     a) 12--17 HCP, (4441) with 4!d
-     b) 12--14 HCP, (xx)45
-1M = 12--17 HCP, 5+M
-1N = 15--17 NT
-2C = 11--15 HCP, 6+!c / 5+!c, 4M
-2D = Multi: 6--10 HCP, 6+!h/6+!s
-2M = Muiderberg: 6--10 HCP, 5M, 5m
-2N = 6--10 HCP, (xx)55
-3X = PRE
-3N = Gambling, one stopper outside
+     a) 11--14 HCP, BAL, 2+!c; We open 1C for any balanced hands including hands with 4!d.
+     With 5!d and a balanced hand (5332), we open 1D.
+     We also need to open 1C for 4!s-4!h-1!d-4!c hand, and for other 4441 hands we open 1!d.  
+     So the preparatory version of 1C opening promises 2+!c, and denies any 5-card suits except for the club.
+     b) 15--17 HCP, UNBAL, 5+!c; The natural version of 1C opening always promises a unbalanced hand.
+     For 5422 hands, we try to open 1NT. So if we choose to open 1C, it usually means points are concentrating in long suits and lacking stoppers in the 2-card suits.   
+     c) 18+ HCP, any distribution; Upgrading a good distribution hand with fewer points is allowed. In other words, if it is likely to make game with partner owning fewer than 7 points, we consider opening the strong 1C.
+1D = 11--17 HCP, 5+!d; The 1D opening usually promises 5+!d, and only with 2 exceptions.
+     a) All 4441 hands with 4!d.
+     b) 11--14 HCP, 4+!d-5+!c.
+1HS = 11--17 HCP, 5+!h / 5+!s
+1N = 15--17 HCP, BAL; We try to open 1NT as much as possible, so it can be semi-balanced.
+2C = 11--14 HCP, 6+!c / 5+!c-4M; For the hand with exactly 5!c and 4M, we open 1C if considering it balanced from the view of points, so we still can end in declaring 1NT.    
+2D = 4--9 HCP, 6!h / 6!s
+2HS = 4--9 HCP, 5!h-4+m / 5!s-4+m; When vulnerable, it has to be 5-5 and the 2H opening can be 5!s-5!h (For the 2S opening, the second suit is always minor). 
+2N = 4--9 HCP, 5!d-5!c
+3X = PRE; Destructive. 
+3N = Gambling; Solid 7-card minor suit and nothing else.
+4CD = PRE; Even more destructive.
+4HS = 7+M, T/P; We can only raise to 6M, if owning 3+ Aces and a good hand.
+4N = BW
+5CD = 8+m, T/P; The same as the 4M opening.
+5HS = 7+M, INV, S/T; We raise to 6M with one trump honor, and raise to 7M with two trump honors.  
+5N = 6+!d-6+!c, F; Pick a slam in minor. 7m is applicable if we have one trump honor and good support for the other minor (shortness with trump length to ruff or queen).
+6X = T/P; We raise to 7X with one trump honor (A or K).
+6N = 6+!d-6+!c, F; Pick a grand slam in minor.
+7X = T/P
 
 #INCLUDE common/1C.bml
 #INCLUDE common/1D.bml
