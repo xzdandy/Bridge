@@ -33,8 +33,8 @@ Let's start with the basic opening structure of the system:
 6N = 6+!d-6+!c, F; Pick a grand slam in minor.
 7X = T/P
 
-#INCLUDE common/1C.bml
 #INCLUDE common/1D.bml
+#INCLUDE common/1C.bml
 #INCLUDE common/1M.bml
 #INCLUDE common/1N.bml
 #INCLUDE common/2C.bml
