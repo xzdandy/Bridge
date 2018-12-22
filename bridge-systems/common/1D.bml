@@ -1,24 +1,24 @@
 * The 1!d opening
 
-1!d opening usually promises 5!d, 12-17 HCP.
-Exceptions are (4441) with 4-card !d and xx45, 12-14 HCP.
-
-** Answers
-
-1D
-  1M = 6+HCP, 4+M 
-  1N = 7-10 HCP, 4-M
-  2C = 5+!c, FG / 9-11 HCP, 6+!c, INV
-  2D = Inverted minor: 10+ HCP, 4+!d, 4-M
-  2H = 7-9 HCP, 5!s, 4+!h
-  2S = 11-12 HCP, INV to 3NT, Transfer the declarer
-  2N = 11-12 HCP, INV to 3NT
-  3C = 8-HCP, PRE 
-  3D = 8-HCP, 4+!d, PRE 
-  3M = 9-12 HCP, 4+!d, SPL, F1
-  3N = 13-15 HCP, T/P
-  4C = 9-12 HCP, 4+!d, SPL, F1
-  4D = PRE
-  4M = T/P
-  4N = BW 
+1D-
+1HS = 6+ HCP, 4+!h / 4+!s, F1; With 4-4 in the major, we response 1H first. With 5-5 in the major, we response 1S first, but only with 10+ HCP. With unequal length in the major, we response the longer one first. Notice the direct jump 2H response after the 1D opening.
+1N = 8--10 HCP, NF; This denies 4-card major suits, but this might not be balanced.
+2C = 5+!c, FG; Different from 1M opening, 2C after 1D opening always promises 5+!c, as we have plenty of other bids to show other types of hands.
+2D = 10+ HCP, 4+!d, F; This denies 4-card major suits and is forcing to 3D. 
+2H = 6--9 HCP, 5!s, 4+!h; 
+2S = 11--12 HCP, INV to 3NT; This denies 4-card major suits and 4!d, so it usually implies a few clubs.
+2N = 13--15 HCP, FG to 3NT; The same as the 2S response, but this one is game forcing. With the help of the 2S response, we are able to create a balanced game forcing at 2 level. So in the case that the opener has an interesting hand, he still can bid the distribution at 3 level.
+3C = 9--11 HCP, 6!c, NF; This denies the 3-card diamond fit and 4-card major suits. 
+3D = 7- HCP, 4+!d, PRE; This does not necessarily deny 4-card major suit, and it can be too weak to bid the major. 
+3HS = 9-12 HCP, 4+!d, SPL, F1; This denies 4-card major suits. For stronger hands with diamond fit and shortness, we go through inverted minor. We don't have SPL in club, because you need at least to have a 3361 hand to do that.
+3N = ?
+4CD = PRE; The 4D preempt usually promises 5+!d and some shortness.
+4HS = T/P; Same as the 4M opening, we can only raise to 6M with at least 3+ Aces and a good hand.
+4N = BW 
+5CD = T/P
+5HS = 7+M, S/T; Same as the 5M opening.
+5N = F; Pick a slam in 6D, 6NT, 7D and 7N.
+6X = T/P; Same as the 6X opening.
+6N = T/P
+7X = T/P
 
