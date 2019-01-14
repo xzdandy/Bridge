@@ -1,82 +1,27 @@
 * The 1!c opening
 
-Polish 1!c has three possible meanings: 1) any hand 18+, 2) 5+!c, 15+, 3) 12-14 balance (can be short). When we have a hand 15-17 and 5+!c, we try to open 1NT if applicable. 
+The feature of this variation is 1NT invitation after 1C opening. The idea is we try to either play 1NT or 3NT.  
 
 1C-
-P  = impossible except when 5+!c and 0-3 HCP
 1D = one of:
-     1) negative, 0-7 HCP
+     1) negative, 0-6 HCP
      2) no 4M, unbalance in minor, 7-11 HCP
-     3) no 4M, BAL, 16-17 HCP
+     3) no 4M, BAL, 7-9 HCP
+     4) no 4M, BAL, 16+ HCP
 1M = 4+M, 7+ HCP
-1N = no 4M, BAL, 7-10 HCP
+1N = no 4M, BAL, INV, 10-12 HCP
 2C = 5+!c, FG, possible with 4M
 2D = 5+!d, FG, possible with 4M
-2H = 5!s-4+!h, 7-9 HCP
-2S = no 4M, BAL, INV, 10-12 HCP
-2N = no 4M, BAL, FG, 13-15 HCP
-3X = 6X, PRE, good suit
+2H = ?
+2S = no 4M, BAL, FG, 13-15 HCP
+2N = one of:
+     1) 5+!c, 5+!d, PRE
+     2) 6+!d, PRE
+3C = 6+!c, PRE
+3D = 5+!c, 5+!d, FG
+3M = 1M, 3OM, (5-4) in minors, FG
+3N = Gambling
 
-** 1!c-1!d
-
-1C-1D-
-1M = 3+M, BAL, 12-14 HCP / 4+M, 15+ HCP, NF
-1N = BAL, 18-20 HCP, normal 1NT opening continuation 
-2C = 5+!c, 18+ HCP, NF
-2D = ART, FG, then 2!h second negative 
-2M = 6+M, 20+HCP, NF
-2N = BAL, 21-23 HCP, normal strong 2NT opening continuation
-3C = 5!d-4+!c, 18+ HCP
-3X = two suit game forcing hand:
-     1) 3!d -> 5+!s-5+!h
-     2) 3M - > 5+M-5+m, then 3N askes for the minor, and other bids are CUE for the major
-3N = Gambling, one long minor suit. 
-
-*** 1!c-1!d-1M
-
-1C-1D-1M-
-P = pass with all hands fewer than 5 points
-1S = 4+!s, 5-6 HCP
-1N = 5-6 HCP
-2m = 5+m, 7-11 HCP
-2M = 4+M, 5-6 HCP
-2oM = 5-4 in minors, 9-11 HCP
-2N = BAL, 16-17 HCP
-3m = 6+m, 9-11 HCP
-
-** 1!c-1M
-
-1C-1M-
-1S = 4+!s, XYZ continuation, break the relay to show strong club hand.
-1N = 3-M, 12-14 HCP, XYZ continuation
-2C = 3-M, 5+!c, 15+ HCP, F1
-2D = ART, 3-M, FG, natural continuation, rebid M shows 5 
-2M = 4M, 12-14 HCP, forcing 2NT and helper suit game try continuation
-2oM = 5+OM, FG
-2N = 4+M, FG, see forcing 2NT after major rasie for continuation
-3m = 6+m, FG
-3M = 4M, 5+!c, 15-17 HCP, INV
-
-*** 1!c-1M-2!c
-
-1C-1M-2C-
-2D = ART, FG, natural continuation
-2M = NF
-2oM = NAT, F, concern about !d
-2N = NF
-3C = NF
-
-** 1!c-1N
-
-1C-1N-
-2C = 5+!c, 15-17, INV, show stoppers next
-2X = 5+X, FG
-2N = ASK for shape
-  3CD = 5!c / 5!d
-  3M = 4!c-4!d-2M-3OM
-  3N = 4333 hand
-3X = set the trump, ask for CUE 
-3N = T/P
 
 
 
