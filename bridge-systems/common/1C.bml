@@ -45,3 +45,22 @@ In this variation, the responder is more likely to have values after 1D response
 3S = 5+!s, 5+m, FG
 3N = Gambling; Opener tries to take 9 tricks with a long minor. Responder usually passes unless having a strong and interesting hand.
 4C = 5+!c, 5+!d, FG
+
+1C-1D-1S-
+P = 5- HCP; Responder has to pass even with none spades.
+1N = 4-!s, 5-9 HCP
+2m = 5+m, 7-11 HCP
+2H = at least 5-4 in minors, INV, 9-11 HCP
+2S = 4+!s, 5-6 HCP 
+2N = BAL, 16+ HCP
+3m = 6+m, INV, 9-11 HCP
+
+1C-1D-1H-
+P = 5- HCP;
+1S = 4+!s, 4-!h, 5-6 HCP
+1N = 4-!h, 5-9 HCP
+2m = 5+m, 7-11 HCP
+2H = 4+!h, 5-6 HCP
+2S = at least 5-4 in minors, INV, 9-11 HCP
+2N = BAL, 16+ HCP
+3m = 6+m, INV, 9-11 HCP
