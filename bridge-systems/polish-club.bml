@@ -34,13 +34,6 @@ Let's start with the basic opening structure of the system:
 7X = T/P
 
 #INCLUDE common/1C.bml
-#INCLUDE common/1D.bml
-#INCLUDE common/1M.bml
-#INCLUDE common/1N.bml
-#INCLUDE common/2C.bml
-#INCLUDE common/2D.bml
-#INCLUDE common/2M.bml
-#INCLUDE common/2N.bml
 
 #INCLUDE common/abbreviations.bml
 
