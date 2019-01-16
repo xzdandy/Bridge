@@ -64,3 +64,41 @@ P = 5- HCP;
 2S = at least 5-4 in minors, INV, 9-11 HCP
 2N = BAL, 16+ HCP
 3m = 6+m, INV, 9-11 HCP
+
+** Continuation after 1!c-1M
+
+We don't play fit reverse as for now. Instead we adopt a very natural continuation.
+
+1C-1S-
+1N = 4-!s, BAL, 12-14 HCP
+2C = 5+!c, 4-!s, F1, 15+ HCP
+2D = FG, one of:
+     1) 5+!d
+     2) BAL; A strong balanced hand has no suit to show.
+2H = 5+!h, 4-!s, FG
+2S = 4!s, 12-14 HCP
+2N = 4+!s, FG
+3X = Two suit game forcing hand without !s support:
+     3C) 5+!c, 5+!h
+     3D) 5+!d, 5+!h
+     3H) 5+!c, 5+!d
+3S = 4!s, 5+!c, INV, 15-17 HCP
+
+1C-1H-
+1S = F1, one of:
+     1) 4!s, 12-14 HCP
+     2) 5+!s, FG
+     3) 4!s, 5+!c, 15-17 HCP
+1N = 4-!h, BAL, 12-14 HCP; This does not deny 4-card !s.
+2C = 5+!c, 4-!s, 4-!h, F1, 15+ HCP
+2D = FG, one of:
+     1) 5+!d
+     2) BAL
+2H = 4!h, 12-14 HCP
+2S = 6+!s, FG
+2N = 4+!h, FG
+3X = Two suit game forcing hand without !h support:
+     3C) 5+!c, 5+!s
+     3D) 5+!d, 5+!s
+     3S) 5+!c, 5+!d
+3H = 4!h, 5+!c, INV, 15-17 HCP
