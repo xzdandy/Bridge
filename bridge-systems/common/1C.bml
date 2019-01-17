@@ -102,3 +102,35 @@ We don't play fit reverse as for now. Instead we adopt a very natural continuati
      3D) 5+!d, 5+!s
      3S) 5+!c, 5+!d
 3H = 4!h, 5+!c, INV, 15-17 HCP
+
+** Continuation after 1!c-1N
+
+Responder's 1N describes a very limited type of hands. Opener should smash the contract if knowing where to play and no slam interest even with strong hand.
+
+1C-1N-
+2X = 5+X; Opener's any rebid creates a game forcing auction.
+2N = ASK for shape
+  3m = 5-card minor suit
+  3M = 4432 with doubleton in the bided major suit
+  3N = 4333
+3X = Two suited hands:
+     3C) 5+!c, 5+M; Then 3!d asks for major. New suit is CUE for !c. 3N is to play.
+     3D) 5+!c, 5+!d / 5+!h, 5+!s
+     3H) 5+!h, 5+!d; Then new suit is CUE for h! except that 4!d sets the !d as trump. 3N is to play. 
+     3S) 5+!s, 5+!d; Same as the 3H continuation.
+3N = T/P
+4m = Set the trump suit, ask for keycard 
+4M = T/P
+4N = INV
+
+1C-1N-3D-
+3M = 3-card in other major suit
+  3N = 5+!c, 5+!d, F; Other bids set the other major as trump and CUE.
+    4m = Pick the minor suit
+3N = 3-!h, 3-!s
+  4C = 5+!c, 5+!d
+    4D = Set the !d as trump
+    4M = CUE for !c
+  4D = 5+!h, 5+!s; ASK responder to pick the major suit again.
+  4M = T/P
+
