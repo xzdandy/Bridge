@@ -14,12 +14,8 @@ The feature of this variation is 1NT invitation after 1C opening. The idea is we
 2D = 5+!d, FG, possible with 4M
 2H = ?
 2S = no 4M, BAL, FG, 13-15 HCP
-2N = one of:
-     1) 5+!c, 5+!d, PRE
-     2) 6+!d, PRE
-3C = 6+!c, PRE
-3D = 5+!c, 5+!d, FG
-3M = 1M, 3OM, (5-4) in minors, FG
+2N = 5+!c, 5+!d, PRE
+3X = 6+M, PRE
 3N = Gambling
 
 ** Continuation after 1!c-1!d 
@@ -137,3 +133,15 @@ Responder's 1N describes a very limited type of hands. Opener should smash the c
 ** Continuation after 1!c-2!c and 1!c-2!d
 
 The following bids are very natural. Opener tries to make the lowest possible bid to describe his hand. Opener does not jump into game randomly, instead leaving space for responder to seek slam if applicable. On the other hand, for responder, slow shows a strong hand and interest in slam. 2N by responder is a waiting bid to ask opener to describe his hand more, while 2N by opener is a default rebid with nothing to show. 
+
+** Continuation after 1!c-2!s
+
+1C-2S-
+2N = ASK for shape; The same following stucture as 1C-1N-2N-.
+3X = NAT, 5+X
+3N = T/P; All other bids show a strong club opening.
+4X = Two-step transfer: !c->!h, !d->!s, !h->!c, and !s->!d.
+  1step = 2 or 4 keycards
+  2steps = 0-1 keycard
+  3steps = 3 keycards
+4N = INV
