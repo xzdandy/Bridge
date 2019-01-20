@@ -14,9 +14,9 @@ The feature of this variation is 1NT invitation after 1C opening. The idea is we
 2D = 5+!d, FG, possible with 4M
 2H = ?
 2S = no 4M, BAL, FG, 13-15 HCP
-2N = 5+!c, 5+!d, PRE
+2N = 5+!c, 5+!d, PRE; The continuation is the same as 2N opening.
 3X = 6+M, PRE
-3N = Gambling
+3N = Gambling; The continuation is the same as 3N opening.
 
 ** Continuation after 1!c-1!d 
 
@@ -145,3 +145,7 @@ The following bids are very natural. Opener tries to make the lowest possible bi
   2steps = 0-1 keycard
   3steps = 3 keycards
 4N = INV
+
+** Continuation after 1!c-3X
+
+With a weak hand, opener usually passes. With a strong hand, opener can count tricks by assuming the responder having a hand with 6-card such as (KQxxxx, KJTxxx, AQxxxx) in the preempted suit and nothing else.
